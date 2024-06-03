@@ -4,12 +4,10 @@
   "description": "Split pane",
   "main": "split-pane.js",
   "license": "MIT",
-  "dependencies": {
+  "peerDependencies": {
+    "react-native-app-interface": "^0.1.2",
     "react": "^16.13.1",
     "react-native": "^0.63.1"
-  },
-  "peerDependencies": {
-    "react-native-app-interface": "^0.1.2"
   },
   "keywords": [
     "react-native",
